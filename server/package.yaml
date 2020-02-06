@@ -15,6 +15,7 @@ dependencies:
 - containers
 - directory
 - hashable
+- hasql
 - http-types
 - jwt
 - monad-logger
